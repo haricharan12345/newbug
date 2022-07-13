@@ -1,0 +1,14 @@
+import java.util.*;
+
+public class arraysort_6 {
+    public static void main(String[] args) {
+        Integer [] a= new Integer[]{7,77,99,9,67};
+        Arrays.sort(a,Collections.reverseOrder());
+        System.out.println("the sorted array is");
+        for(int u=0;u<a.length;u++)
+        {
+            System.out.println( a[u]);
+        }
+
+    }
+}
