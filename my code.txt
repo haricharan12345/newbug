@@ -1,5 +1,5 @@
 package com.hari_package;
-// my code changes to master to form new branch
+//some change made in my code from master to the new branch
 public class arr_3 {
     public static void main(String[] args) {
         int arr[]={1,2,3,4,5};
